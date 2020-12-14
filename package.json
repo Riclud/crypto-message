@@ -14,5 +14,6 @@
   "dependencies": {
     "commander": "^6.2.1",
     "crypto-js": "^4.0.0"
-  }
+  },
+  "homepage": "https://github.com/Riclud/crypto-message"
 }
