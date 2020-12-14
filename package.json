@@ -1,6 +1,6 @@
 {
   "name": "crypto-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Riclud",
   "description": "encrypting a string or file",
   "main": "main.js",
