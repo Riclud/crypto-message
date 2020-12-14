@@ -1,3 +1,9 @@
+## Install
+
+```bash
+ npm i -g crypto-message
+```
+
 ## Usage
 
 Crypt a file
